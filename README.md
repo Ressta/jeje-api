@@ -24,7 +24,7 @@ please create [Issues](https://github.com/Ressta/Jeje-api/issues/new)
 
 ## Latest
 
-`npm i github:Jejedev/Jeje-api`
+`npm i github:Ressta/Jeje-api`
 
 ## Npm
 
