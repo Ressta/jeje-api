@@ -14,17 +14,29 @@
 
 ID<br>
 Jika Ada Bug,<br>
+<<<<<<< HEAD
 Silahkan Buat [Issues](https://github.com/ressta/Jeje-api/issues/new)
 
 EN<br>
 If there are bugs,<br>
 please create [Issues](https://github.com/ressta/Jeje-api/issues/new)
+=======
+Silahkan Buat [Issues](https://github.com/Ressta/Jeje-api/issues/new)
+
+EN<br>
+If there are bugs,<br>
+please create [Issues](https://github.com/Ressta/Jeje-api/issues/new)
+>>>>>>> 09ed7d41f7b36ddbb45f5eb5867ce121d436577b
 
 # Installation
 
 ## Latest
 
+<<<<<<< HEAD
 `npm i github:ressta/Jeje-api`
+=======
+`npm i github:Ressta/Jeje-api`
+>>>>>>> 09ed7d41f7b36ddbb45f5eb5867ce121d436577b
 
 ## Npm
 
